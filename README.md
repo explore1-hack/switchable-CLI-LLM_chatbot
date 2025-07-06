@@ -97,11 +97,13 @@ TOGETHER\_API\_KEY=your\_actual\_api\_key\_here
 ```bash
 pip install -r requirements.txt
 python main.py
-````
+```
 
 ---
 
 ## ❤️ Final Note
 
 This chatbot is a symbol of my journey — from a beginner to building functional AI tools in just a few weeks. I’m excited to learn more every day and help other jobless youth become creators too.
+
+👨‍💻 Built as part of my 60-Day AI Challenge | #Day10 | Ashutosh Pandey (aka GenesisProtocol.Algenz)
 
