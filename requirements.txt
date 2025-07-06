@@ -1,0 +1,17 @@
+requests
+python-dotenv
+customtkinter  # Only if used
+main.py – Your main chatbot script.
+
+llm_response.py – Handles the API call logic.
+
+memory.py – Stores past conversation memory.
+
+.env – Stores your Together.ai API key (🚫 Do not upload this).
+
+.gitignore – To exclude .env from being pushed.
+
+requirements.txt – For all dependencies.
+
+README.md – For explanation and documentation.
+
